@@ -1,0 +1,27 @@
+
+img{
+    border-radius: 10px;
+    background-color: rgb(202, 161, 201);
+}
+img:hover{
+    background-color: gold;
+    border-style: solid;
+    border-color: soild black;  
+}
+hr 
+{
+        width: 4%;
+        border-style: dotted none none;
+        border-width: 5px;
+        color: gray;
+}
+
+h1,h3
+{
+        color: aqua;
+}
+      
+body
+{
+        background-color: rgb(198, 198, 233);
+ }
